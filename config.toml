@@ -1,5 +1,5 @@
 baseurl = "https://example.com/"
-theme = "cocoa-eh"
+theme = "cocoa-eh-eventcalendar"
 builddrafts = true
 canonifyurls = true
 contentdir = "content"
@@ -17,8 +17,8 @@ pluralizelisttitles = false
 [params]
 dateform = "Jan 2, 2006"
 dateformfull = "Mon Jan 2 2006 15:04:05 MST"
-description = "Example blog"
-copyright = "Copyright © 2015 Nishanth Shanmugham"
+description = "Digital Youth Challenge Kapiti 2017"
+copyright = "Copyright © 2017 DLF Kapiti"
 logofile = "img/logo.png"
 faviconfile = "img/logo.png"
 highlightjs = true

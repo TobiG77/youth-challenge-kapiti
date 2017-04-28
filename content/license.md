@@ -2,7 +2,8 @@
 title= "License"
 +++
 
-You can use this page to put a license on the contents of your blog, like so:
+This website is based on the Cocoa Enhanced Theme For Hugo.
+
 
 > The MIT License (MIT)
 >

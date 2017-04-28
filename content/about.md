@@ -1,12 +1,16 @@
 +++
-date = "2015-08-22"
-title = "About"
+date = "2015-05-01"
+title = "ABOUT"
 +++
 
-_With this theme, it is possible to add small sections that only contains one page like this. It will automatically appears in the header, at the end._
+The challenge is a contest, open to any student under the age of 24 who wants to explore and realise business ideas or simply connect with like minded people in the community.
 
-Along with [Ford Prefect](https://en.wikipedia.org/wiki/Ford_Prefect_\(character\)), Dent barely escapes the Earth's destruction as it is demolished to make way for a *hyperspace bypass*. Arthur spends the next several years, still wearing his dressing gown, helplessly launched from crisis to crisis while trying to straighten out his lifestyle.  
- 
-> He rather enjoys tea, but seems to have trouble obtaining it in the far reaches of the galaxy.  
- 
-In time, he learns how to fly and carves a niche for himself as a sandwich-maker.
+Participants will be asked to form teams (must be 3 or more people) and to develop a new business idea using digital tools that are either beneficial to the community or represents a new business opportunity.
+
+During the project, each team will be mentored and invited to join workshops to help improve your understanding of starting a new business. Once the challenge closes, each team will be invited to pitch their idea to the Judging Panel, who will decide the ultimate winners.
+
+While there are prices at the end, the biggest value are the experiences and connections made during the challenge.
+
+_Interested in being part of the Digital Challenge or supporting the next generation of tech savvy young entrepreneurs from Kapiti?_
+
+[Join the Challenge](http://kapitidigital.org/digital-challenge/submit-application/)
