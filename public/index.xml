@@ -1,14 +1,224 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Arthur Dent</title>
-    <link>https://you.github.io/</link>
-    <description>Recent content on Arthur Dent</description>
+    <title>Digital Youth Challenge Kapiti 2017</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Digital Youth Challenge Kapiti 2017</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
+    <copyright>Copyright © 2017 DLF Kapiti</copyright>
+    <lastBuildDate>Tue, 23 May 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://you.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mentor Workshop</title>
+      <link>https://example.com/schedule/2017-05-23-mentor-workshop/</link>
+      <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/schedule/2017-05-23-mentor-workshop/</guid>
+      <description>Agenda  Introduction Values / Code of Conduct Roles Admin  Back</description>
+    </item>
+    
+    <item>
+      <title>Open for Registrations</title>
+      <link>https://example.com/schedule/2017-06-01-open-for-registrations/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/schedule/2017-06-01-open-for-registrations/</guid>
+      <description>If you already know about the event and just want to register just
+Join the Challenge
+Back</description>
+    </item>
+    
+    <item>
+      <title>Mentor Workshop</title>
+      <link>https://example.com/schedule/2017-06-06-mentor-workshop/</link>
+      <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/schedule/2017-06-06-mentor-workshop/</guid>
+      <description>Agenda  Introduction Values / Code of Conduct Roles Admin  Back</description>
+    </item>
+    
+    <item>
+      <title>Introduction Evening</title>
+      <link>https://example.com/schedule/2017-06-20-introduction/</link>
+      <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/schedule/2017-06-20-introduction/</guid>
+      <description>Program  Meet &amp;amp; Greet Mentor Introduction Program Discussion
+ Elevator Pitch
+  Resources  Mentors Critical Thinking
+ LeanStack
+ Zoom
+  Location: KCDC Chambers
+Back</description>
+    </item>
+    
+    <item>
+      <title>Participant Workshop - Problem Statement</title>
+      <link>https://example.com/schedule/2017-06-27-workshop-1/</link>
+      <pubDate>Tue, 27 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/schedule/2017-06-27-workshop-1/</guid>
+      <description>Program  What problem are you solving? Who has this problem? How are people / organisations affected by this problem?
+ Pitch Practice
+  Resources Location: Whitireia
+Back</description>
+    </item>
+    
+    <item>
+      <title>Video Check In - Market Analysis</title>
+      <link>https://example.com/schedule/2017-07-04-online-check-in-2/</link>
+      <pubDate>Tue, 04 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/schedule/2017-07-04-online-check-in-2/</guid>
+      <description>Program  What other options are out there to solve the problem you&amp;rsquo;ve identified? How big is your market ( PAM &amp;gt; TAM &amp;gt; SAM &amp;gt; SOM )  Location: Online
+Resources Back</description>
+    </item>
+    
+    <item>
+      <title>Participant Workshop - Unique Value Proposition</title>
+      <link>https://example.com/schedule/2017-07-11-workshop-3/</link>
+      <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/schedule/2017-07-11-workshop-3/</guid>
+      <description>Program  How is your solution different from existing solutions? Why is yours better? How does this matter to customers?
+ Pitch Practice
+  Resources Location: Whitireia
+Back</description>
+    </item>
+    
+    <item>
+      <title>Video Check In - Relevance</title>
+      <link>https://example.com/schedule/2017-07-18-online-check-in-4/</link>
+      <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/schedule/2017-07-18-online-check-in-4/</guid>
+      <description>Program  Who are your customers? (Personas, Interview Results) How important is the problem you&amp;rsquo;re solving to your potential customers?  Location: Online
+Resources Back</description>
+    </item>
+    
+    <item>
+      <title>Participant Workshop - Channel Management</title>
+      <link>https://example.com/schedule/2017-07-25-workshop-5/</link>
+      <pubDate>Tue, 25 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/schedule/2017-07-25-workshop-5/</guid>
+      <description>Program  How do you reach your customers? What is your key message? How do you get from 0 &amp;gt; 10 &amp;gt; 100 &amp;gt; 1000 customers?
+ Pitch Practice
+  Resources Location: Whitireia
+Back</description>
+    </item>
+    
+    <item>
+      <title>Startup Weekend Kapiti Finals</title>
+      <link>https://example.com/schedule/2017-07-30-startup-weekend/</link>
+      <pubDate>Sun, 30 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/schedule/2017-07-30-startup-weekend/</guid>
+      <description>Come visit the Startup Weekend Kapiti to watch a wide range of teams in a 54 hr long, high energy competition.
+Relax and observe and take in the odd lesson.
+Details at http://kapiti.co
+Location: Whitireia
+Back</description>
+    </item>
+    
+    <item>
+      <title>Video Check In - Unfair Advantage?</title>
+      <link>https://example.com/schedule/2017-08-01-online-check-in-6/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/schedule/2017-08-01-online-check-in-6/</guid>
+      <description>Program  How to protect your business?  Location: Online
+Resources Back</description>
+    </item>
+    
+    <item>
+      <title>Participant Workshop - Financials</title>
+      <link>https://example.com/schedule/2017-08-08-workshop-7/</link>
+      <pubDate>Tue, 08 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/schedule/2017-08-08-workshop-7/</guid>
+      <description>Program  What does it cost to build and deliver your solution to the customer? What are customers prepared to pay for it?
+ Pitch Practice
+  Resources Location: Whitireia
+Back</description>
+    </item>
+    
+    <item>
+      <title>Video Check In - Key Metrics?</title>
+      <link>https://example.com/schedule/2017-08-15-online-check-in-8/</link>
+      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/schedule/2017-08-15-online-check-in-8/</guid>
+      <description>Program  How do you know you&amp;rsquo;re on track to success?  Location: Online
+Resources Back</description>
+    </item>
+    
+    <item>
+      <title>Final Pitch Practice</title>
+      <link>https://example.com/schedule/2017-08-22-final-pitch-practice-9/</link>
+      <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/schedule/2017-08-22-final-pitch-practice-9/</guid>
+      <description>Program  Deliver a perfect pitch Resolve outstanding issues  Resources Location: Whitireia
+Back</description>
+    </item>
+    
+    <item>
+      <title>Finale</title>
+      <link>https://example.com/schedule/2017-08-29-finale/</link>
+      <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/schedule/2017-08-29-finale/</guid>
+      <description>Program  LeanStack Zoom  Location: KCDC Chambers
+Back</description>
+    </item>
+    
+    <item>
+      <title>ABOUT</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>The challenge is a contest, open to any student under the age of 24 who wants to explore and realise business ideas or simply connect with like minded people in the community.
+Participants will be asked to form teams (must be 3 or more people) and to develop a new business idea using digital tools that are either beneficial to the community or represents a new business opportunity.
+During the project, each team will be mentored and invited to join workshops to help improve your understanding of starting a new business.</description>
+    </item>
+    
+    <item>
+      <title>FAQ</title>
+      <link>https://example.com/faq/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/faq/</guid>
+      <description>Why are we doing this?
+We think this is a great opportunity for young people to bring their digital ideas to fruition and to learn how to start a successful business. It is also a great opportunity for local technical companies to engage with the next wave of digital talent in the region and together who knows the next Google could come out of the Kapiti region one day. Who are the judges?</description>
+    </item>
+    
+    <item>
+      <title>Home</title>
+      <link>https://example.com/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/home/</guid>
+      <description>This is the home page. It will display the blog section if there is one, and a text before.
+Hey ! Welcome to the Cocoa Enhanced theme. Here are some articles :</description>
+    </item>
+    
+    <item>
+      <title>License</title>
+      <link>https://example.com/license/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/license/</guid>
+      <description>This website is based on the Cocoa Enhanced Theme For Hugo.
+ The MIT License (MIT)
+Copyright &amp;copy; 2015 Nishanth Shanmughamnishanth.gerrard@gmail.com
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &amp;ldquo;Software&amp;rdquo;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</description>
+    </item>
     
   </channel>
 </rss>
