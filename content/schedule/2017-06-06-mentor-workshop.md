@@ -2,7 +2,6 @@
 weight: 20170606
 date: 2017-06-06
 title: Mentor Workshop
-highlight: true
 ---
 
 ## Agenda
@@ -11,3 +10,5 @@ highlight: true
 * Values / Code of Conduct
 * Roles
 * Admin
+
+[Back](/schedule)

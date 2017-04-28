@@ -2,10 +2,25 @@
 weight: 20170620
 date: 2017-06-20
 title: Introduction Evening
+highlight: true
 ---
 
+## Program
 
-* What problem are you solving?
-* Who is it for?
+* Meet & Greet
+* Mentor Introduction
+* Program Discussion
+
+* Elevator Pitch
+
+## Resources
+
+* Mentors
+* Critical Thinking
+
+* [LeanStack](https://leanstack.com)
+* [Zoom](https://zoom.us)
 
 Location: KCDC Chambers
+
+[Back](/schedule)
