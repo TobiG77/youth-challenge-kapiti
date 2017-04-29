@@ -1,0 +1,9 @@
+version: 2
+jobs:
+  build:
+    steps:
+      - checkout
+      - run: wget https://github.com/spf13/hugo/releases/download/v0.20.6/hugo_0.20.6_Linux-64bit.tar.gz
+      - run: mkdir -p $HOME/bin
+      - run: tar -xf hugo_0.20.6_Linux-64bit.tar.gz
+      - run: bash ci/publish.sh
