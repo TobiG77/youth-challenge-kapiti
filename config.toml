@@ -24,11 +24,12 @@ faviconfile = "img/logo.png"
 highlightjs = true
 progressively = true
 latestpostcount = 5
-github = "example"
-email = "you@example.com"
-linkedin = "john-example-aa80ue8è"
-twitter = "example"
-social_banner = "img/banner.png"
+# github = "example"
+email = "tobias.gerschner@gmail.com"
+facebook = "KapitiDigitalLeadershipForum"
+linkedin = "ictkiwi"
+# twitter = "example"
+# social_banner = "img/banner.png"
 posts_navigation = true
 
 [params.colors]
