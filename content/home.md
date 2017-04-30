@@ -12,6 +12,6 @@ We will provide mentors and experts to help you develop your business idea. Youâ
 
 _Looking to participate?_ [Join the Challenge](http://kapitidigital.org/digital-challenge/submit-application/)
 
-_Keen to help out?_ [Contact us](tobias.gerschner@gmail.com)
+_Keen to help out?_ [Contact us](mailto:youth-challenge@dlf-kapiti.zendesk.com)
 
 The challenge is an inclusive event, meant to challenge you and broaden your perspective and provide you with valuable skills to to pursue your dreams. For further details, [explore the schedule](/schedule) or [check out the details](/about) of the competition.
