@@ -8,7 +8,7 @@ Do you have an idea beneficial to the community or a new business opportunity?
 
 Interested in being part of the challenge or supporting the next generation of tech savvy young entrepreneurs from the region?
 
-We will provide mentors and experts to help you develop your business idea. You’ll be pitching your ideas to a world class group of judges and compete for prices.
+We will provide mentors and experts to help you develop your business idea. You’ll be pitching your ideas to a world class group of judges and compete for prizes.
 
 _Looking to participate?_ [Join the Challenge](http://kapitidigital.org/digital-challenge/submit-application/)
 
