@@ -6,9 +6,7 @@ title: Mentor Workshop
 
 ## Agenda
 
-* Introduction
-* Values / Code of Conduct
-* Roles
-* Admin
+* Lean Canvas
+* Judging Criteria
 
 [Back](/schedule)

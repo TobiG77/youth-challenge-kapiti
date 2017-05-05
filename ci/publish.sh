@@ -33,7 +33,7 @@ export SCRIPT_SOURCE_DIR=$( cd "$( dirname "${BASH_SOURCE[0]}" )/.." && pwd )
 
 [ "`type source`" == "source is a shell builtin" ] || abort_on_error "This script is written for Bash!"
 
-OPTS=`getopt -o b:hdf --long bucket:,help,debug,force -n 'parse-options' -- "$@"`
+OPTS=`getopt -o b:hdfp --long bucket:,help,debug,force,prod -n 'parse-options' -- "$@"`
 
 [ $? == 0 ] || abort_on_error "Failed parsing options."
 
