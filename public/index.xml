@@ -22,6 +22,19 @@
     </item>
     
     <item>
+      <title>Startup Weekend Wellington</title>
+      <link>/schedule/2017-05-26-startup-weekend-wlg/</link>
+      <pubDate>Fri, 26 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/schedule/2017-05-26-startup-weekend-wlg/</guid>
+      <description>Thinking of being a mentor or signed up as one? Stop by at Startup Weekend Wellington to get first hand experience of such an event.
+Relax and observe and take in the odd lesson.
+Click here for details
+Location: Whitireia
+Back</description>
+    </item>
+    
+    <item>
       <title>Open for Registrations</title>
       <link>/schedule/2017-06-01-open-for-registrations/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
@@ -114,10 +127,10 @@ Back</description>
     
     <item>
       <title>Startup Weekend Kapiti Finals</title>
-      <link>/schedule/2017-07-30-startup-weekend/</link>
+      <link>/schedule/2017-07-30-startup-weekend-kc/</link>
       <pubDate>Sun, 30 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/schedule/2017-07-30-startup-weekend/</guid>
+      <guid>/schedule/2017-07-30-startup-weekend-kc/</guid>
       <description>Come visit the Startup Weekend Kapiti to watch a wide range of teams in a 54 hr long, high energy competition.
 Relax and observe and take in the odd lesson.
 Details at http://kapiti.co
@@ -221,6 +234,17 @@ We will provide mentors and experts to help you develop your business idea. Youâ
  The MIT License (MIT)
 Copyright &amp;copy; 2015 Nishanth Shanmughamnishanth.gerrard@gmail.com
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &amp;ldquo;Software&amp;rdquo;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</description>
+    </item>
+    
+    <item>
+      <title>Mentors</title>
+      <link>/mentors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/mentors/</guid>
+      <description>Thank you for considering to support your local community. To minimise impact on individual mentors we have devised 2 streams of mentoring.
+Team Coach To be a team coach, you only have to want to spend time with participants and help them on their journey. Team coaches act as primary contact for participating teams. You will
+ be available for a team to escalate questions to subject matter experts or the org team, so teams can address road blocks quickly.</description>
     </item>
     
   </channel>
