@@ -19,6 +19,7 @@ highlight: true
 * Critical Thinking
 
 * [LeanStack](https://leanstack.com)
+* [LeanCanvas](https://s3.amazonaws.com/leanstack/v4/Lean-Canvas.pdf)
 * [Zoom](https://zoom.us)
 
 Location: KCDC Chambers

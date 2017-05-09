@@ -8,7 +8,7 @@ title: Mentor Workshop
 
 * Introduction
 * Values / Code of Conduct
-* Roles
+* Roles (Coach / Subject Matter Expert)
 * Admin
 
 [Back](/schedule)
