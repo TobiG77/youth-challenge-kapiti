@@ -1,6 +1,6 @@
 ---
-weight: 20170822
-date: 2017-08-22
+weight: 20170823
+date: 2017-08-23
 title: Final Pitch Practice
 highlight: true
 ---

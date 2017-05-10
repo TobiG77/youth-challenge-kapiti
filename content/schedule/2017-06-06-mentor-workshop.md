@@ -1,6 +1,6 @@
 ---
-weight: 20170606
-date: 2017-06-06
+weight: 20170607
+date: 2017-06-07
 title: Mentor Workshop
 ---
 
@@ -8,5 +8,7 @@ title: Mentor Workshop
 
 * Lean Canvas
 * Judging Criteria
+
+Location: Whitireia
 
 [Back](/schedule)
