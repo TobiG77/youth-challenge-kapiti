@@ -1,6 +1,6 @@
 ---
-weight: 20170524
-date: 2017-05-24
+weight: 20170617
+date: 2017-06-17
 title: Mentor Workshop
 ---
 
