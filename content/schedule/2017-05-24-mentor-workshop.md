@@ -11,7 +11,6 @@ title: Mentor Workshop
 * Roles (Coach / Subject Matter Expert)
 * Admin
 
-Location: Whitireia
-When: 7 p.m.
+Location: Whitireia ( 7p.m.)
 
 [Back](/schedule)
