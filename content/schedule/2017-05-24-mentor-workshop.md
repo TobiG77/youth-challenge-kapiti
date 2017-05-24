@@ -12,5 +12,6 @@ title: Mentor Workshop
 * Admin
 
 Location: Whitireia
+When: 7 p.m.
 
 [Back](/schedule)

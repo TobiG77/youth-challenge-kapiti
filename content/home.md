@@ -12,4 +12,4 @@ _Looking to participate?_ [Join the Challenge](http://kapitidigital.org/digital-
 
 _Keen to help out?_ [Contact us](mailto:youth-challenge@dlf-kapiti.zendesk.com)
 
-The challenge is an inclusive event, meant to challenge you and broaden your perspective and provide you with valuable skills to to pursue your dreams. For further details, [explore the schedule](/schedule) or [check out the details](/about) of the competition.
+The challenge is an inclusive event, meant to challenge you and broaden your perspective and provide you with valuable skills to to pursue your dreams. For further information, [explore the schedule](/schedule) or [check out the details](/about) of the competition.
