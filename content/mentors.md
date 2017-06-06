@@ -45,4 +45,4 @@ To ensure fairness in the competition all mentors are required to sign a waiver 
 
 ## Sign Up
 
-_If you want to become a mentor, [contact us](mailto:youth-challenge@dlf-kapiti.zendesk.com)_
+_If you want to become a mentor, [contact us](mailto:mentors@dlf-kapiti.zendesk.com)_

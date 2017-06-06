@@ -7,6 +7,6 @@ highlight: true
 
 
 If you already know about the event and just want to register just<br />
-[Join the Challenge](http://kapitidigital.org/digital-challenge/submit-application/)
+[Join the Challenge](mailto:mentors@dlf-kapiti.zendesk.com)
 
 [Back](/schedule)

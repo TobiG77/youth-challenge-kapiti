@@ -13,4 +13,4 @@ While there are prizes at the end, the biggest value are the experiences and con
 
 _Interested in being part of the Digital Challenge or supporting the next generation of tech savvy young entrepreneurs from Kapiti?_
 
-[Join the Challenge](http://kapitidigital.org/digital-challenge/submit-application/)
+[Join the Challenge](mailto:mentors@dlf-kapiti.zendesk.com)
