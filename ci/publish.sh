@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+WATCH_DIRS="archetypes content data layouts static"
 abort_on_error() {
   echo -e "$1" 1>&2
   exit 1
@@ -22,10 +23,13 @@ run_update() {
 
     [ -n "$CI" ] || aws-profile --switch sapient
     aws s3 sync "$SCRIPT_SOURCE_DIR/public" "s3://$PUBLIC_BUCKET"
-    git add public
-    git commit -m "AS PUBLISHED @ `date +%F-%H-%M`" public
-    git push
 
+}
+
+commit_updates() {
+    git add $WATCH_DIRS public
+    git commit -m "AS PUBLISHED @ `date +%F-%H-%M`"
+    git push
 }
 
 export SCRIPT_SOURCE_DIR=$( cd "$( dirname "${BASH_SOURCE[0]}" )/.." && pwd )
@@ -63,13 +67,14 @@ fi
 
 pushd $SCRIPT_SOURCE_DIR > /dev/null 2>&1
 
-    hugo
-    git status --porcelain |grep -q 'M public' ; changed=$?
-    [ "$FORCE" == "true" ] ; changed=0
-    if [ "$changed" == "0" ]
+    git diff --exit-code "$WATCH_DIRS" ; changed=$?
+    [ "$FORCE" == "true" ] ; changed=1
+    if [ "$changed" == "1" ]
     then
+        hugo
         echo "Publishing changes"
         run_update
+        [ "$PROD" == "true" ] && commit_updates
     else
         echo -e "\nNo changes to publish.\n"
     fi
