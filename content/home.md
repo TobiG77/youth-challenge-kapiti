@@ -4,7 +4,9 @@ title = "Home"
 
 Welcome to the 2017 Kapiti’s Digital Youth Challenge!
 
-Do you have an idea beneficial to the community or a new business opportunity?
+Do you have an idea beneficial to the community or a new business opportunity? Want to get help to make it happen?
+
+{{< youtube l1VtfJE-0b4 >}}
 
 We will provide mentors and experts to help you develop your business idea. You’ll be pitching your ideas to a world class group of judges and compete for prizes.
 
