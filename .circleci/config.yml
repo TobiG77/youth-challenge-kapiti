@@ -10,4 +10,4 @@ jobs:
 
     steps:
       - checkout
-      - run: bash ci/publish.sh
+      - run: bash -xe ci/publish.sh --prod

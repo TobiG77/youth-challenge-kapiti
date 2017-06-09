@@ -67,9 +67,10 @@ fi
 
 pushd $SCRIPT_SOURCE_DIR > /dev/null 2>&1
 
-    git diff --exit-code "$WATCH_DIRS" ; changed=$?
-    [ "$FORCE" == "true" ] ; changed=1
-    if [ "$changed" == "1" ]
+    [ -e "themes/cocoa-eh-eventcalendar" ] || git clone https://github.com/TobiG77/cocoa-eh-eventcalendar themes/cocoa-eh-eventcalendar
+    git diff --exit-code $WATCH_DIRS || changed=true
+    [ "$FORCE" == "true" ] && changed=true
+    if [ "$changed" == "true" ]
     then
         hugo
         echo "Publishing changes"
