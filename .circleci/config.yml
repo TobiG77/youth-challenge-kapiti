@@ -6,6 +6,8 @@ jobs:
        environment:
          ENV: CI
 
+    working_directory: ~/
+
     steps:
       - checkout
       - run: bash ci/publish.sh
