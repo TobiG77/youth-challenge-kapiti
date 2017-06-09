@@ -1,0 +1,16 @@
+dependencies:
+  override:
+    - wget -bc https://github.com/spf13/hugo/releases/download/v0.21/hugo_0.21_Linux-64bit.tar.gz
+    - tar -xf hugo_0.21_Linux-64bit.tar.gz
+    - cp -v hugo $HOME/bin/
+test:
+  override:
+    - ./ci/publish.sh
+deployment:
+  master:
+    branch: master
+    owner: circleci
+    commands:
+      - ./ci/deploy.sh -p
+
+
