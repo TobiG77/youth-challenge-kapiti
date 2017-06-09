@@ -2,7 +2,7 @@ version: 2
 jobs:
   build:
     docker:
-     - image: tobig77/docker-deploy-hugo-to-s3:latest
+     - image: tobig77/docker-hugo:latest
        environment:
          ENV: CI
 
