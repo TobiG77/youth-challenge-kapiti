@@ -1,12 +1,11 @@
 version: 2
 jobs:
   build:
+    working_directory: /home/tobias/tmp
     docker:
      - image: tobig77/docker-hugo:latest
        environment:
          ENV: CI
-
-    working_directory: ~/
-
     steps:
+      - checkout
       - run: bash -xe ci/publish.sh --prod
