@@ -75,7 +75,10 @@ pushd $SCRIPT_SOURCE_DIR > /dev/null 2>&1
         hugo
         echo "Publishing changes"
         run_update
-        [ "$PROD" == "true" ] && commit_updates
+        if [ "$CI" != "true" ]
+        then
+            [ "$PROD" == "true" ] && commit_updates
+        fi
     else
         echo -e "\nNo changes to publish.\n"
     fi
