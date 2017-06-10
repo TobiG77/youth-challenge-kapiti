@@ -8,4 +8,4 @@ jobs:
          ENV: CI
     steps:
       - checkout
-      - run: bash -xe ci/publish.sh --prod
+      - run: bash -xe ci/publish.sh --prod --force
