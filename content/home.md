@@ -12,6 +12,6 @@ We will provide mentors and experts to help you develop your business idea. Youâ
 
 _Looking to participate?_ [Join the Challenge](mailto:signup@dlf-kapiti.zendesk.com)
 
-_Keen to help out?_ [Contact us](mailto:mentors@dlf-kapiti.zendesk.com)
-
 The challenge is an inclusive event, meant to challenge you and broaden your perspective and provide you with valuable skills to to pursue your dreams. For further information, [explore the schedule](/schedule) or [check out the details](/about) of the competition.
+
+_Keen to help out?_ [Contact us](mailto:mentors@dlf-kapiti.zendesk.com)
