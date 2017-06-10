@@ -9,5 +9,4 @@ jobs:
     working_directory: ~/
 
     steps:
-      - checkout
       - run: bash -xe ci/publish.sh --prod
